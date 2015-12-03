@@ -3,10 +3,14 @@
     "version": "1.0",
     "manifest_version": 2,
     "browser_action": {
-        "default_title": "That's the tool tip",
+        "default_title": "Badge Api Demo",
         "default_popup": "popup.html",
         "default_icon": {
-        	"19": "icon.png"
+        	"19": "icon-19.png",
+            "38": "icon-38.png"
     	}
+    },
+    "icons":{
+        "128": "icon-126.png"
     }
 }
